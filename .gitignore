@@ -1,1 +1,7 @@
 /data
+
+poetry.toml
+clearml_ids.txt
+.venv/
+__pycache__/
+
