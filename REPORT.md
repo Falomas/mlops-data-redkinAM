@@ -29,10 +29,11 @@ C:\Users\Anton\Documents\VSCode\python\dz3\dvc-remote-redkinAM
 
 | Метка / ветка | Commit | Описание |
 |---|---|---|
-| tag `data-v1` / база | `930e13a63c8b943993b3caab3f725298d1e668d8` | только `iris.csv` |
-| `feature/wine` | `c6d0c33` | добавлен `wine.csv` |
-| `feature/iris-features` | `90c464c` | Iris с `sepal_area`, `petal_area` |
-| merge / `main` HEAD | `6c292fc40eb73a3f8ad1688c1ddd47d64f13595d` | итог: Iris+features и Wine |
+| tag `data-v1` / база | `59a090f` | только `iris.csv` |
+| `feature/wine` | `4177c48` | добавлен `wine.csv` |
+| `feature/iris-features` | `8c6f7c2` | Iris с `sepal_area`, `petal_area` |
+| merge | `63639fd` | итог: Iris+features и Wine |
+| `main` HEAD | `7c2f777` | отчёт со ссылкой на GitHub |
 
 ## Хэши DVC
 
