@@ -1,8 +1,7 @@
 # Отчёт: версионирование данных с DVC и ClearML
 
 Студент: **redkinAM**  
-Репозиторий: локальный `mlops-data-redkinAM`  
-(путь: `C:\Users\Anton\Documents\VSCode\python\dz3\mlops-data-redkinAM`)
+Репозиторий: https://github.com/Falomas/mlops-data-redkinAM
 
 ## Версии окружения
 
